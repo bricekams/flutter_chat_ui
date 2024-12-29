@@ -325,6 +325,7 @@ class ChatL10nZhTW extends ChatL10n {
     super.sendButtonAccessibilityLabel = '傳送',
     super.unreadMessagesLabel = '未讀訊息',
   });
+}
 
   /// French l10n which extends [ChatL10n].
   @immutable
@@ -344,4 +345,3 @@ class ChatL10nZhTW extends ChatL10n {
       super.unreadMessagesLabel = 'Messages non lus',
     });
   }   
-}
